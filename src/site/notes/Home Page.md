@@ -4,7 +4,7 @@
 
 Test
 
-[[Recipe Book.base|Recipe Book Database]]
+[[Recipes/Recipe Book\|Recipe Book Database]]
 
 My D&D mishmash rules wiki:
 https://edungga.github.io/ednd-wiki/
