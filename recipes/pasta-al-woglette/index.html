@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Home Page</title>
+<title>Pasta al Woglette</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -36,11 +36,38 @@
 <div class="header-meta">
 </div>
 </header>
-<p>Test</p>
-<p><a class="internal-link" target="" data-note-icon="undefined" href="/recipes/recipe-book/">Recipe Book Database</a></p>
-<p>My D&amp;D mishmash rules wiki:<br>
-<a href="https://edungga.github.io/ednd-wiki/" target="_blank" class="external-link">https://edungga.github.io/ednd-wiki/</a></p>
+<h2 id="ingredients" tabindex="-1">Ingredients</h2>
+<ul>
+<li>2 tsp salt</li>
+<li>1 tsp black pepper</li>
+<li>2 onion</li>
+<li>4 good sized bay leaves</li>
+<li>1/4 cup olive oil</li>
+<li>2 tbsp mince garlic</li>
+<li>1/2 tsp red pepper flakes</li>
+<li>3 tbs Italian herbs</li>
+<li>500ml chicken stock</li>
+<li>2x 810g cans crushed tomato or Passatta</li>
+<li>1 Jar tomato paste</li>
+<li>1 kg beef mince (or half pork)</li>
+<li>1 packet Italian Sausage (with fennel)</li>
+</ul>
+<h2 id="method" tabindex="-1">Method</h2>
+<ol>
+<li>Olive oil get hot in stock pot</li>
+<li>Chuck in red chili flakes and 30 seconds later onion</li>
+<li>Saute onion for a bit and chuck in garlic</li>
+<li>When onion soggy, brown mince</li>
+<li>When mince brown, chuck the rest of the stuff in (not sosig though)</li>
+<li>Get to simmer and turn it right down low</li>
+<li>Every 30 min or so stir</li>
+<li>3/4 hours of stirring in, chuck in sosig - can brown in pan on high first if you can be assed</li>
+<li>4-6 hours total should be good</li>
+</ol>
 </main>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
 <script>lucide.createIcons({attrs:{class:["svg-icon"]}})</script>
 </body>
 </html>
