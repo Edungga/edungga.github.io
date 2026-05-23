@@ -1,7 +1,7 @@
 [
 {
 		"title": "Home Page",
-		"date":"Sat May 23 2026 23:12:24 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 23 2026 23:15:31 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "How did you get here?\nBegone foul beast!!!!\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/recipes/recipe-book/\">Recipe Book Database</a>\nMy D&amp;D mishmash rules wiki:\nhttps://edungga.github.io/ednd-wiki/",
 		"tags": [ "note","gardenEntry"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Pasta al Woglette",
-		"date":"Sat May 23 2026 23:12:24 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 23 2026 23:15:31 GMT+0000 (Coordinated Universal Time)",
 		"url":"/recipes/pasta-al-woglette/",
 		"content": "Ingredients\n\n2 tsp salt\n1 tsp black pepper\n2 onion\n4 good sized bay leaves\n1/4 cup olive oil\n2 tbsp mince garlic\n1/2 tsp red pepper flakes\n3 tbs Italian herbs\n500ml chicken stock\n2x 810g cans crushed tomato or Passatta\n1 Jar tomato paste\n1 kg beef mince (or half pork)\n1 packet Italian Sausage (with fennel)\n\nMethod\n\nOlive oil get hot in stock pot\nChuck in red chili flakes and 30 seconds later onion\nSaute onion for a bit and chuck in garlic\nWhen onion soggy, brown mince\nWhen mince brown, chuck the rest of the stuff in (not sosig though)\nGet to simmer and turn it right down low\nEvery 30 min or so stir\n3/4 hours of stirring in, chuck in sosig - can brown in pan on high first if you can be assed\n4-6 hours total should be good",
 		"tags": [ "note","Recipe"]
@@ -17,7 +17,7 @@
 
 {
 		"title": "Recipe Book",
-		"date":"Sat May 23 2026 23:12:24 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 23 2026 23:15:31 GMT+0000 (Coordinated Universal Time)",
 		"url":"/recipes/recipe-book/",
 		"content": "views:\n- type: table\nname: Table\nfilters:\nand:\n- file.tags.contains(&quot;Recipe&quot;)",
 		"tags": [ "note"]
