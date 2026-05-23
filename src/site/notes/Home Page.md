@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-Test
+How did you get here?
+Begone foul beast!!!!
 
 [[Recipes/Recipe Book\|Recipe Book Database]]
 
