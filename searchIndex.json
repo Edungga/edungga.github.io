@@ -1,15 +1,31 @@
 [
 {
 		"title": "Home Page",
-		"date":"Tue May 26 2026 23:30:26 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue May 26 2026 23:41:23 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "How did you get here?\nBegone foul beast!!!!\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/recipes/recipe-book/\">Recipe Book Database</a>\nMy D&amp;D mishmash rules wiki:\nhttps://edungga.github.io/ednd-wiki/",
+		"content": "How did you get here?\nBegone foul beast!!!!\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/recipes/recipe-book/\">Recipe Book</a>\nMy D&amp;D mishmash rules wiki:\nhttps://edungga.github.io/ednd-wiki/",
 		"tags": [ "note","gardenEntry"]
 },
 
 {
+		"title": "Celery Stew (Khoresh Karafs)",
+		"date":"Tue May 26 2026 23:41:23 GMT+0000 (Coordinated Universal Time)",
+		"url":"/recipes/celery-stew-khoresh-karafs/",
+		"content": "Ingredients\n\n~14 tbsp Olive Oil (6tbsp for chicken 8 tbsp for celery)\n2 Medium-Large Onions diced\nSalt\n1kg Chicken Thighs cute into 1 inch pieces\n2 tsp ground Turmeric\nSalt &amp; Black Pepper\n2 heads of Celery sliced into half inch wide pieces\n2 bunches of Parsley, stems removed, finely chopped\n1 bunch mint, stems removed, finely chopped\n6 tbs lemon juice\n½ tsp saffron steeped in ~1 cup of hot water\n\nMethod\nChicken / Main pot\n\nHeat large pot medium-high with olive oil\nAdd onion and cook, stir occasionally, until golden brown\nSprinkle Salt &amp; turn down to medium\nAdd 2tsp Salt, ½ Tsp Pepper &amp; the turmeric and chicken\nCook 3-5 min until chicken takes on colour, then turn to low\n\nCelery\n\nHeat wide pan medium-high with olive oil\nAdd celery &amp; ½ tsp Salt, cook for 10 min stir occasionally until slightly fried and reduced in size a bit\nTurn to medium and add parsley, cook for 5 min and stire often\nTurn to low and add mint, cook ~1 min stir the whole time\nTake off heat and add to chicken\n\nMain Pot\n\nTurn to medium, add saffron, water &amp; lemon juice, &amp; 1 tsp salt\nOnce a slight bubble occurs, turn to low and simmer for ~30 min or until it all comes together and the celery is soft but not mushy",
+		"tags": [ "note","Recipe"]
+},
+
+{
+		"title": "Chicken Tikka Malacca",
+		"date":"Tue May 26 2026 23:41:23 GMT+0000 (Coordinated Universal Time)",
+		"url":"/recipes/chicken-tikka-malacca/",
+		"content": "Ingredients\nChicken Marinade:\n\n2 cup full-fat yogurt\n4 teaspoons salt\n2.5 tablespoons garam masala\n1 tablespoon paprika\n3 tablespoon mince garlic\n4 inch squeeze of mince ginger- from tube\n2 kg chicken thighs, cut into 1” pieces\n\nSauce:\n\n3 Tbsp vegetable oil\n2 large yellow onion, thinly sliced\n4 inch squeeze of mince garlic - from tube\n2 Tbsp mince garlic\n2 tsp paprika\n2 tsp) cayenne powder\n2 Tbsp garam masala\n2 Tbsp unsalted butter\n2x 425g can of crushed tomatoes\n2 cup heavy cream\nsalt to taste\n\nMethod\nChicken:\n\nIn a medium-sized bowl, add yogurt, salt, garam masala, paprika, garlic, and ginger; combine.\nAdd chicken to your bowl, toss to coat thoroughly, and marinate for 10 minutes - overnight in the fridge.\n\nSauce:\n\nOptional. Set a 10-inch pan over medium-high heat, and add enough vegetable oil to coat the bottom of the pan.\n\nOnce hot and nearly smoking, add all your chicken in batches and sear for 2 - 3 minutes per side until nicely browned on all edges.\n\nRemove chicken, add additional oil if needed, and lower the heat to medium.\nAdd onion, ginger, and garlic. Season lightly with salt, and saute for 3 - 5 minutes, stirring occasionally, until softened.\nNext, add paprika, cayenne, garam masala; saute until fragrant, about 30 seconds.\nAdd crushed tomatoes, stir and reduce for 5 minutes.\nOptional. Pour into a blender and blend on high speed until as smooth as possible. Place back in the pot,\nreduce the heat to low, add all your chicken, and simmer, stirring occasionally, for 10 minutes or until the chicken is thoroughly cooked and the sauce is reduced.\nStir in heavy cream and reduce for 7 - 8 more minutes or until the sauce is thick and velvety—adjust salt levels if necessary.\nServe immediately with steamed white rice. Optionally garnish with cilantro.",
+		"tags": [ "note","Recipe"]
+},
+
+{
 		"title": "Pasta al Woglette",
-		"date":"Tue May 26 2026 23:30:26 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue May 26 2026 23:41:23 GMT+0000 (Coordinated Universal Time)",
 		"url":"/recipes/pasta-al-woglette/",
 		"content": "Ingredients\n\n2 tsp salt\n1 tsp black pepper\n2 onion\n4 good sized bay leaves\n1/4 cup olive oil\n2 tbsp mince garlic\n1/2 tsp red pepper flakes\n3 tbs Italian herbs\n500ml chicken stock\n2x 810g cans crushed tomato or Passatta\n1 Jar tomato paste\n1 kg beef mince (or half pork)\n1 packet Italian Sausage (with fennel)\n\nMethod\n\nOlive oil get hot in stock pot\nChuck in red chili flakes and 30 seconds later onion\nSaute onion for a bit and chuck in garlic\nWhen onion soggy, brown mince\nWhen mince brown, chuck the rest of the stuff in (not sosig though)\nGet to simmer and turn it right down low\nEvery 30 min or so stir\n3/4 hours of stirring in, chuck in sosig - can brown in pan on high first if you can be assed\n4-6 hours total should be good",
 		"tags": [ "note","Recipe"]
@@ -17,7 +33,7 @@
 
 {
 		"title": "Recipe Book",
-		"date":"Tue May 26 2026 23:30:26 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue May 26 2026 23:41:23 GMT+0000 (Coordinated Universal Time)",
 		"url":"/recipes/recipe-book/",
 		"content": "File\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/recipes/pasta-al-woglette/\">Pasta al Woglette</a>",
 		"tags": [ "note"]
