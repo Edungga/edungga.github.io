@@ -5,7 +5,7 @@
 How did you get here?
 Begone foul beast!!!!
 
-[[Recipes/Recipe Book\|Recipe Book Database]]
+[[Recipes/Recipe Book\|Recipe Book]]
 
 My D&D mishmash rules wiki:
 https://edungga.github.io/ednd-wiki/
