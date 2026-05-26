@@ -18,5 +18,9 @@ WHERE contains(tags,"Recipe")
 | [[Recipes/Chilli con Cant Be Fucked\|Chilli con Cant Be Fucked]]                       |
 | [[Recipes/Overnight Oats\|Overnight Oats]]                                             |
 | [[Recipes/Tiramisu\|Tiramisu]]                                                         |
+| [[Recipes/Date and Honey Scone\|Date and Honey Scone]]                                 |
+| [[Recipes/Sausage Risotto\|Sausage Risotto]]                                           |
+| [[Recipes/Sausage and Beans\|Sausage and Beans]]                                       |
+| [[Recipes/Pizza\|Pizza]]                                                               |
 
 <!-- SerializedQuery END -->
