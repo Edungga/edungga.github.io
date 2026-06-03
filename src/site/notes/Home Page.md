@@ -9,3 +9,6 @@ Begone foul beast!!!!
 
 My D&D mishmash rules wiki:
 https://edungga.github.io/ednd-wiki/
+
+
+[[Wishlist\|Wishlist]]
