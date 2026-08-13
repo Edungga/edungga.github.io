@@ -6,7 +6,7 @@
 - 1 Cup Rice
 - 1/2 Cup Lentil or Soup Mix
 - 1/2 Cup quinoa
-- 2 cup water
+- 2 cup water (3.5 cups for soup mix)
 - cup or so frozen veggies
 
 ## Method
